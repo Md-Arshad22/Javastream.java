@@ -30,7 +30,7 @@ public static void main(String[] args) {
 	int min1 = list4.stream().reduce(5, (a,b) -> a-b);
 	System.out.println("value is :"+ min1);
 	
-	
+
 //	        List<Integer> list5 = Arrays.asList(1,2,3,4,5);
 //	        int start = 1; // Start index (inclusive)
 //	        int end = 5;   // End index (exclusive)
