@@ -42,4 +42,3 @@ public static void main(String[] args) {
 //	        System.out.println("Subtraction result from index " + start + " to " + end + ": " + result);
 	}
 }
-
