@@ -36,6 +36,7 @@ public static void main(String[] args) {
 //	        int end = 5;   // End index (exclusive)
 	
 	        // Get sublist and perform subtraction using Java streams
+	
 //	        int result = list5.subList(start, end).stream().reduce(0, (a, b) -> b- a);
 //	        System.out.println("Subtraction result from index " + start + " to " + end + ": " + result);
 	}
