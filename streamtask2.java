@@ -11,5 +11,4 @@ public class Ques3 {
 		        System.out.println("Sum of even numbers: " + EvenNumbers);
 		        System.out.println("Sum of odd numbers: " + OddNumbers);
 		    }
-
 	}
