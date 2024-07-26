@@ -5,7 +5,6 @@ import java.util.Map.Entry;
 import java.util.stream.Collectors;
 
 public class Streamcls {
-
 	public static void main(String[] args) {
 		
 		List<String> list = Arrays.asList("mani","manisha","muskan","lehar","lovely");
