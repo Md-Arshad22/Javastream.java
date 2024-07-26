@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class Streamcls1 {
+public class stream1 {
 public static void main(String[] args) {
 	
 	            //REDUCE METHOD INTEGER IN STREAM
