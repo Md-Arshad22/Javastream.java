@@ -4,7 +4,7 @@ package javaclasses;
 import java.util.Comparator;
 import java.util.List;
 
-public class Ques2 {
+public class streamtask1 {
 
 	public static void main(String[] args) {
 		
