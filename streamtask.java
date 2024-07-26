@@ -9,4 +9,3 @@ import java.util.stream.Collectors;
 	        System.out.println("List of integers: " + integerList + stringList);
 	    }
 	}
-
