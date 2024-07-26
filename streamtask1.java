@@ -6,7 +6,7 @@ public class streamtask1 {
 
 	public static void main(String[] args) {
 		
-List<Integer> numbers = List.of(10, 5, 20, 15, 25, 30);
+	List<Integer> numbers = List.of(10, 5, 20, 15, 25, 30);
         
         int secondSmallest = numbers.stream().sorted().distinct().skip(1).findFirst()
                                     .orElseThrow(() -> new IllegalArgumentException("List is too small"));
