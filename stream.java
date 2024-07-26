@@ -36,7 +36,7 @@ public class Streamcls {
 		            //COUNTING LENGTH 
 		List<Entry<Integer, List<String>>> Map =list.stream().collect(Collectors.groupingBy(String::length)).entrySet().stream().collect(Collectors.toList());
 		System.out.println("Map is : " +Map);
-		
+	
 	}
 
 }
