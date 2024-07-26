@@ -9,4 +9,3 @@ public class streamtask3 {
 		System.out.println("Sum is : " + sum);
 	}
 }
-
