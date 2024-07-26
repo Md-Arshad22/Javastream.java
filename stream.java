@@ -38,4 +38,3 @@ public class Streamcls {
 		System.out.println("Map is : " +Map);
 	}
 }
-
