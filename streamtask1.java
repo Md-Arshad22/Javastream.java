@@ -17,5 +17,4 @@ List<Integer> numbers = List.of(10, 5, 20, 15, 25, 30);
         System.out.println("Second largest element: " + secondLargest);
 		
 	}
-
 }
